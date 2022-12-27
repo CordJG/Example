@@ -10,6 +10,7 @@ public class aouda {
         System.out.println("\n1+1은 이것입니다 "+wjrmffldgl.i);
 
         w.story(10);
+        w.story();
 
 
     }
